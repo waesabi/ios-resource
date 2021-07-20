@@ -26,7 +26,17 @@
 
 [What is intrinsic content size and the usefulness of it](https://fluffy.es/what-is-intrinsic-content-size/)
 
+[Grand Central Dispatch (GCD) and Dispatch Queues in Swift 3](https://www.appcoda.com/grand-central-dispatch/)
+
 [Introduction to Multithreading and DispatchQueue](https://fluffy.es/help-my-app-freezes/)
+
+[Concurrency & Multithreading in iOS](https://www.viget.com/articles/concurrency-multithreading-in-ios/)
+
+[Asynchronous Multi-Threaded Parallel World of Swift](https://learningswift.brightdigit.com/asynchronous-multi-threaded-parallel-world-of-swift/) - Optioanl, In Depth
+
+[Prioritize Work with Quality of Service Classes](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/EnergyGuide-iOS/PrioritizeWorkWithQoS.html)
+
+[QoS with Dispatch Queues](https://www.allaboutswift.com/dev/2016/5/21/gcd-with-qos-in-swift)
 
 [Uniquely identify iOS device using DeviceCheck (Tutorial)](https://fluffy.es/devicecheck-tutorial/) - (optional)
 
@@ -40,7 +50,7 @@
 
 [iOS remote push notifications in a nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252)
 
-2### Design -
+### Design -
 
 [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
 
