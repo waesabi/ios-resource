@@ -36,6 +36,8 @@
 
 [Prioritize Work with Quality of Service Classes](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/EnergyGuide-iOS/PrioritizeWorkWithQoS.html)
 
+[iOS Concurrency: Getting Started with NSOperation and Dispatch Queues](https://www.appcoda.com/ios-concurrency/)
+
 [QoS with Dispatch Queues](https://www.allaboutswift.com/dev/2016/5/21/gcd-with-qos-in-swift)
 
 [Uniquely identify iOS device using DeviceCheck (Tutorial)](https://fluffy.es/devicecheck-tutorial/) - (optional)
