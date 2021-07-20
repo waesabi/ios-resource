@@ -23,3 +23,6 @@
 ### Design -
 
 [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
+[OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift#-the-open-closed-principle)
+
+[Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
