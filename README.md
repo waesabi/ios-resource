@@ -22,4 +22,4 @@
 
 ### Design -
 
-    - [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
+[SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
