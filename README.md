@@ -15,3 +15,10 @@
 [iOS Interview Questions for Senior Developers in 2017](https://www.sm-cloud.com/ios-interview-questions-for-senior-developers-2017/)
 
 [iOS interview questions for FAANG+ companies](https://faizulla49g.medium.com/ios-interview-questions-for-faang-companies-cd94835b496c)
+
+[Over 150 iOS interview questions](https://www.hackingwithswift.com/interview-questions)
+
+# Topics -
+
+    ### Design -
+        - [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
