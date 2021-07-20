@@ -20,5 +20,6 @@
 
 # Topics -
 
-    ### Design -
-        - [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
+### Design -
+
+    - [SOLID Principles Applied To Swift](https://marcosantadev.com/solid-principles-applied-swift/)
