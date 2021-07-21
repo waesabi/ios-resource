@@ -38,9 +38,27 @@
 
 [iOS Concurrency: Getting Started with NSOperation and Dispatch Queues](https://www.appcoda.com/ios-concurrency/)
 
+[Operation and OperationQueue Tutorial in Swift](https://www.raywenderlich.com/5293-operation-and-operationqueue-tutorial-in-swift)
+
 [QoS with Dispatch Queues](https://www.allaboutswift.com/dev/2016/5/21/gcd-with-qos-in-swift)
 
 [Uniquely identify iOS device using DeviceCheck (Tutorial)](https://fluffy.es/devicecheck-tutorial/) - (optional)
+
+[Writing a Network Layer in Swift: Protocol-Oriented Approach](https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908)
+
+[Memory management in Swift](https://medium.com/elements/memory-management-in-swift-31e20f942bbc)
+
+[Protocol Oriented Programming: A Swift Solution to OOP Headaches](https://medium.com/ios-seminar/protocol-oriented-programming-a-swift-solution-to-oop-headaches-e05d9c5d29a1)
+
+[An iOS architecture approach for UIViewController states & error management in Swift](https://blog.smartnsoft.com/an-ios-architecture-approach-for-uiviewcontroller-states-error-management-in-swift-a353b0e53d94)
+
+[A Quick Look at Semaphores in Swift](https://www.fivestars.blog/articles/semaphores/)
+
+[Best resources for Advanced iOS Developer (Swift)](https://medium.com/flawless-app-stories/best-resources-for-advanced-ios-developer-swift-ade30374593d)
+
+[Unowned or Weak? Lifetime and Performance](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/)
+
+[iOS at Kickstarter: Deep Linking](https://talk.objc.io/episodes/S01E49-deep-linking)
 
 ## Push Notification
 
